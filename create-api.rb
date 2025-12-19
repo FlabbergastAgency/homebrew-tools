@@ -1,4 +1,4 @@
-class CreateAPI < Formula
+class CreateApi < Formula
   desc ""
   homepage "https://github.com/FlabbergastAgency/CreateAPI"
   url "https://github.com/FlabbergastAgency/CreateAPI/archive/refs/tags/v0.2.1.tar.gz"
